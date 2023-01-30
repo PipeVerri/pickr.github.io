@@ -1,0 +1,6 @@
+/index.html
+	Access-Control-Allow-Origin: *
+	Test-Header: 12
+/*
+	Access-Control-Allow-Origin: *
+	Test-Header: 13
